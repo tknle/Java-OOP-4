@@ -1,9 +1,6 @@
 # Java Object Oriented Programming 4
 Java Programming by Duke University on Coursera
 
-## The project has been built with
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
 ## Description
 Solve real world problems with Java using multiple classes. Know how to create programming solutions 
 that scale using Java interfaces. Recognize that software engineering is more than writing code - it 
@@ -29,9 +26,8 @@ and java.io packages.
 - Software Design
 - Java Programming
 
-## Build by
-- BlueJ 
-
+## Build with
+- BlueJ <br />
 **Suggest using BlueJ to run this project**.
 
 ## Author
